@@ -1,4 +1,4 @@
-## To install the dependencies, run the following command: *`npm install`
+## To install the dependencies, run the following command: `npm install`
 
 
 To start the server, run the following command:
